@@ -1,4 +1,4 @@
-# schrodinger-box 
+# Schrodinger box 
 _One box for developer_
 
 _作者：thinklife、ljinkai_
