@@ -1,5 +1,7 @@
 # schrodinger-box 
-<small>One box for developer</small>
+_One box for developer_
+_作者：thinklife、ljinkai_
+
 
 | 步骤 | 内容 | 日期 | 状态 |
 | ----- | ----- | ------ | ------ |
