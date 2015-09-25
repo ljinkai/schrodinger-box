@@ -12,3 +12,8 @@ _作者：thinklife、ljinkai_
 | 打磨 | 用手 | 2015-11-1至 2015-11-15 | loading |
 
 
+## 参考资料
+
+* [Build a Desk Organizer](https://www.youtube.com/watch?v=mp4inHG_reg)
+
+
