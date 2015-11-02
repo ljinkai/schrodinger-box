@@ -101,7 +101,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wood-stand-desk/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="7" selection-start="535" selection-end="535" vertical-scroll-proportion="0.5824176" vertical-offset="223" max-vertical-offset="615">
+            <state line="25" column="26" selection-start="524" selection-end="524" vertical-scroll-proportion="0.34065935" vertical-offset="251" max-vertical-offset="615">
               <folding />
             </state>
           </provider>
@@ -173,6 +173,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="schrodinger-box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schrodinger-box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schrodinger-box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wood-support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schrodinger-box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schrodinger-box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wood-support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -455,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wood-stand-desk/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="535" selection-end="535" vertical-scroll-proportion="0.5824176" vertical-offset="223" max-vertical-offset="615">
+        <state line="25" column="26" selection-start="524" selection-end="524" vertical-scroll-proportion="0.34065935" vertical-offset="251" max-vertical-offset="615">
           <folding />
         </state>
       </provider>

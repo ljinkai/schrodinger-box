@@ -21,8 +21,8 @@ _作者：thinklife、ljinkai_
 * 56cmx6cmx1.2cm  2块  (竖支撑)
 * 45cmx6cmx1.2cm  2块  (底支撑)
 * 85cmx8cmx1.2cm  2块 （斜支撑）
-* 40cmx16cmx1.2cm  1块（上托板）
-* 40cmx22cmx1.2cm  1块 (下托板)
+* 46cmx16cmx1.2cm  1块（上托板）
+* 46cmx22cmx1.2cm  1块 (下托板)
 * 43cmx5cmx1.2cm  1块 (背支撑)
 
 
