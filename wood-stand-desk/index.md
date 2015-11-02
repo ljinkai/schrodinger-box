@@ -16,9 +16,20 @@ _作者：thinklife、ljinkai_
 ### 1.0版本
 ![]()
 
+### 材料尺寸
+
+* 56cmx6cmx1.2cm  2块  (竖支撑)
+* 45cmx6cmx1.2cm  2块  (底支撑)
+* 85cmx8cmx1.2cm  2块 （斜支撑）
+* 40cmx16cmx1.2cm  1块（上托板）
+* 40cmx22cmx1.2cm  1块 (下托板)
+* 43cmx5cmx1.2cm  1块 (背支撑)
+
+
 
 ## 参考资料
 
 * [Stand desk](http://www.thereadydesk.com/home.html)
+* [淘宝商家](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.xxC2gy&id=23090728170&_u=260u9kq9e43)
 
 
