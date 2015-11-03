@@ -18,12 +18,12 @@ _作者：thinklife、ljinkai_
 
 ### 材料尺寸
 
-* 56cmx6cmx1.2cm  2块  (竖支撑)
-* 45cmx6cmx1.2cm  2块  (底支撑)
-* 85cmx8cmx1.2cm  2块 （斜支撑）
+* 56cmx3cmx2cm  2块  (竖支撑)
+* 45cmx3cmx2cm  2块  (底支撑)
+* 84cmx5.5cmx1.5cm  2块 （斜支撑）
 * 46cmx16cmx1.2cm  1块（上托板）
 * 46cmx22cmx1.2cm  1块 (下托板)
-* 43cmx5cmx1.2cm  1块 (背支撑)
+* 43cmx5cmx2cm  1块 (背支撑)
 
 
 
