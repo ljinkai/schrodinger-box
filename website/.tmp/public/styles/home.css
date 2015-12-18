@@ -53,7 +53,6 @@
 @media (max-width: 767px) {
     .home_center {width: 320px;}
     .home_body {background-size: auto;}
-    .item_tip {font-size: 22px;margin-top: 150px;
-        left: 50%;
-        margin-left: -40px;}
+    .item_tip {font-size: 22px;margin-top: 150px;}
+    .home_logo {left: 50%;margin-left: -40px;}
 }
