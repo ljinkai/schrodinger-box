@@ -11,7 +11,7 @@
 
 .home_top {height: 300px;width: 100%;}
 .home_line_layout {width: 100%;margin:0px auto;position: relative;}
-.home_line_banner {width: 700px;margin:0px auto;position: relative;height: 500px;}
+.home_line_banner {width: 100%;margin:0px auto;position: relative;height: 500px;}
 .home_line {width: 100%;}
 .item_tip {
     width: 100%;
@@ -49,3 +49,9 @@
     color:#ffffff;text-align: center;margin:0px auto;font-size: 12px;}
 .footer-item {margin: 12px;color: #ffffff;}
 .logo-qrcode {width: 200px;height: 200px;margin: 0px auto;}
+
+@media (max-width: 767px) {
+    .home_center {width: 320px;}
+    .home_body {background-size: auto;}
+    .item_tip {font-size: 22px;}
+}
