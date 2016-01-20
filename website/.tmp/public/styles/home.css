@@ -16,17 +16,18 @@
 .item_tip {
     width: 100%;
     color:#ffffff;
-    height: 300px;
+    height: auto;
     text-align: center;
-    margin-top: 300px;
+    margin-top: 30px;
     text-shadow: 1px 1px 1px rgba(0,0,0,1);
     font-size: 26px;}
-.item_tip h2 {font-size: 54px;}
+.item_tip h2 {font-size: 28px;}
 .item_img {float: left;width: 400px;}
 
 .logon_can {width: 100%;text-align: center;}
 .home_logo {display:block;height: 100px;margin: 0px auto;position: absolute;top: 50px;}
-.home_code_container {display: block;margin: 0px auto;width: 200px;font-size:14px;margin-bottom:40px;color: #ffffff;text-align: center;}
+.home_code_container {display: block;margin: 0px auto;margin-top:15px;width: 200px;font-size:14px;margin-bottom:40px;color: #ffffff;text-align: center;}
+.home_desk {width: 90%;max-width: 400px;margin: 0px auto;display: block;}
 .home_qrcode {width: 200px;height: 200px;}
 .home_qrcode_sub {margin-top: 10px;}
 .home_slogan {width: 300px;height: 80px;position:absolute;
@@ -55,10 +56,8 @@
 /**
  * about
  */
-.about {width: 100%;
-    height: 100%;}
-.about_layout {max-width: 700px;
-    width: 90%;margin: 0px auto;}
+.about {width: 100%;height: 100%;}
+.about_layout {max-width: 700px;width: 90%;margin: 0px auto;}
 .about_name {width: 100%;text-align: right;}
 .about .footer .footer-item{color: #000000;}
 .about .home_slogan {color: #000000;font-size: 32px;}
@@ -67,6 +66,6 @@
 @media (max-width: 767px) {
     .home_center {width: 320px;}
     .home_body {background-size: auto;}
-    .item_tip {font-size: 22px;margin-top: 150px;}
+    .item_tip {font-size: 20px;margin: 30px 0px 20px 0px;}
     .home_logo {left: 50%;margin-left: -40px;}
 }
