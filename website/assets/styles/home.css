@@ -26,9 +26,9 @@
 
 .logon_can {width: 100%;text-align: center;}
 .home_logo {display:block;height: 100px;margin: 0px auto;position: absolute;top: 50px;}
-.home_code_container {display: block;margin: 0px auto;margin-top:15px;width: 200px;font-size:14px;margin-bottom:40px;color: #ffffff;text-align: center;}
+.home_code_container {display: block;margin: 0px auto;margin-top:15px;width: 250px;font-size:14px;margin-bottom:10px;color: #ffffff;text-align: center;}
 .home_desk {width: 90%;max-width: 400px;margin: 0px auto;display: block;}
-.home_qrcode {width: 200px;height: 200px;}
+.home_qrcode {width: 250px;height: 250px;}
 .home_qrcode_sub {margin-top: 10px;}
 .home_slogan {width: 300px;height: 80px;position:absolute;
     left:50%;top:50%;margin-left:-150px;margin-top:-40px;text-align: center;
@@ -48,7 +48,7 @@
 .home_img{width:260px;display: block;margin:0px auto;}
 .footer {width: 100%;height:80px;line-height:80px;
     color:#ffffff;text-align: center;margin:0px auto;font-size: 12px;}
-.footer-item {margin: 12px;color: #ffffff;text-decoration: none;}
+.footer-item {margin: 8px;color: #ffffff;text-decoration: none;}
 .footer-item:hover {text-decoration: underline;}
 .footer-item-tip:hover {text-decoration: none;}
 .logo-qrcode {width: 200px;height: 200px;margin: 0px auto;}
@@ -56,13 +56,35 @@
 /**
  * about
  */
-.about {width: 100%;height: 100%;}
-.about_layout {max-width: 700px;width: 90%;margin: 0px auto;}
+.about {width: 100%;height: 100%;
+
+}
+.about .home_top {height: 200px;}
+.about .home_line_banner {height: 260px;}
+.about_layout {max-width: 600px;width: 90%;margin: 0px auto;
+
+}
 .about_name {width: 100%;text-align: right;}
 .about .footer .footer-item{color: #000000;}
-.about .home_slogan {color: #000000;font-size: 32px;}
-.about .home_slogan_main {font-size: 32px;}
+.about .home_slogan {color: #000000;height: 30px;
+    margin-top: 30px;}
+.about .home_slogan_main {font-size: 20px;}
 .about .home_logo {position: relative;}
+/**
+ * users
+ */
+.users .footer {float: left;}
+.users_item {width: 100%;max-width:300px;height: 500px;float: left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.users_item_400 {background-size: 400px;}
+.users_img {float: left;}
+@media (max-width: 600px) {
+    .users_item {width: 100%;max-width:100%;
+    }
+}
 @media (max-width: 767px) {
     .home_center {width: 320px;}
     .home_body {background-size: auto;}
