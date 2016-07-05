@@ -40,7 +40,9 @@ module.exports.routes = {
   },
   '/show': {
     view: 'show'
-  }
+  },
+  'get /unhappy/:id': "APlanController.unsubscribe",
+  'post /unhappy': "APlanController._unsubscribe"
 
   /***************************************************************************
   *                                                                          *

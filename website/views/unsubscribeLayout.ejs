@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>狸木匠 - 取消订阅</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords"
+        content="好玩,有趣,有节操">
+    <meta name="description"
+        content="">
+    <style>
+      .content {text-align: center;color: #ff3300;padding-top: 30px;}
+      .un_btn {border: 1px #ff3300 solid;cursor:pointer;width: 150px;height: 30px;line-height: 30px;text-align:center;
+        margin: 0px auto;margin-top: 50px;}
+    </style>
+  </head>
+  <body>
+  <div class="content">
+    再看我一眼吧: <a href="http://www.limujiang.cc">狸木匠-专注程序员健康</a>
+    <div class="un_btn" data-id="<%= id %>" onclick="unsubscribe(event)">取消订阅</div>
+  </div>
+  <script src="/vendor/jquery/jquery.js"></script>
+  <script>
+    function unsubscribe (event) {
+      var res = confirm("让我哭一会儿, 确定要取消吗?");
+      if (res) {
+        var id = $(event.target).data("id");
+        $.post("/unhappy", {"id":id},function(result) {
+          if (result && (result._STATE_ == "200")) {
+            alert(result.MSG);
+          }
+        });
+      }
+    }
+  </script>
+  </body>
+</html>
