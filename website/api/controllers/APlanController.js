@@ -31,6 +31,9 @@ module.exports = {
                 res.json(result);
             }
         });
+    },
+    redirect : function(req,res) {
+        res.render("channel",{});
     }
 };
 
