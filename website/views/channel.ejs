@@ -19,7 +19,9 @@
       }
       var url = decodeURIComponent(getUrlParam("redirect"));
       if (url) {
-        window.location.href = url;
+        setTimeout(function() {
+          window.location.href = url;
+        },300);
       } else {
         window.location.href = "http://www.limujiang.cc";
       }
