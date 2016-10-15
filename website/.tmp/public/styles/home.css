@@ -4,7 +4,7 @@
     background-image: url("/images/home/back_black.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
     background-color: #081a1e;
 }
 .home_center {width: 700px;margin: 0px auto;}
@@ -26,7 +26,7 @@
 
 .logon_can {width: 100%;text-align: center;}
 .home_logo {display:block;height: 100px;margin: 0px auto;position: absolute;top: 50px;}
-.home_code_container {display: block;margin: 0px auto;margin-top:15px;width: 250px;font-size:14px;margin-bottom:10px;color: #ffffff;text-align: center;}
+.home_code_container {display: block;margin: 0px auto;margin-top:45px;width: 250px;font-size:14px;margin-bottom:10px;color: #ffffff;text-align: center;}
 .home_desk {width: 90%;max-width: 400px;margin: 0px auto;display: block;}
 .home_qrcode {width: 250px;height: 250px;}
 .home_qrcode_sub {margin-top: 10px;}
